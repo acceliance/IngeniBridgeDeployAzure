@@ -27,7 +27,7 @@ The template deploys a Windows VM with IIS embedded.
 Look at the public IP address created and connect to it using any browser.
 
 ## Azure Cloud Marketplace availability ##
-IngeniBridge is soon to come up in the Azure Cloud Marketplace.
+IngeniBridge is live in the Azure Cloud Marketplace.
 
 
 
