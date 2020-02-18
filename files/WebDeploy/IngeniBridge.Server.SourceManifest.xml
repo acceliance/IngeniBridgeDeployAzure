@@ -1,7 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
+<<<<<<< HEAD
   <IisApp path="C:\Users\joset\source\azure_josetorres\IngeniBridge\IngeniBridge.Server\IngeniBridge.Server\obj\Release\Package\PackageTmp" />
   <setAcl path="C:\Users\joset\source\azure_josetorres\IngeniBridge\IngeniBridge.Server\IngeniBridge.Server\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
   <setAcl path="C:\Users\joset\source\azure_josetorres\IngeniBridge\IngeniBridge.Server\IngeniBridge.Server\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
   <setAcl path="C:\Users\joset\source\azure_josetorres\IngeniBridge\IngeniBridge.Server\IngeniBridge.Server\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+=======
+  <IisApp path="C:\Users\joset\source\Workspaces\IngeniBridge\IngeniBridge.Server\IngeniBridge.Server\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\joset\source\Workspaces\IngeniBridge\IngeniBridge.Server\IngeniBridge.Server\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\joset\source\Workspaces\IngeniBridge\IngeniBridge.Server\IngeniBridge.Server\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\joset\source\Workspaces\IngeniBridge\IngeniBridge.Server\IngeniBridge.Server\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
+>>>>>>> 96f9595355f61376cf4505f9092c759be6538a68
 </sitemanifest>

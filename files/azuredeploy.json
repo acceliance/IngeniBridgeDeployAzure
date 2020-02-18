@@ -55,7 +55,7 @@
     "webDeployPackageFullPath": "[concat(variables('_artifactsLocation'), variables('webDeployPackage'))]",
     "powershelldscZipFullPath": "[concat(variables('_artifactsLocation'), variables('powershelldscZip'))]",
     "powershelldscArchiveFolder": "DSC",
-	"webDeployPackage": "/WebDeploy/IngeniBridge.Server.v.1.0.1.zip",
+	"webDeployPackage": "/WebDeploy/IngeniBridge.Server.zip",
 	"powershelldscZip": "/DSC/IISInstall.ps1.zip",
 	"_artifactsLocation": "https://raw.githubusercontent.com/Deagital/IngeniBridgeDeployAzure/master/files",
 	"imageSKU": "2019-Datacenter"
