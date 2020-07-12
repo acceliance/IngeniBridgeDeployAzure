@@ -9,7 +9,7 @@ All features are available.
 The policy is here => <a href="http://www.ingenibridge.com/home-en/the-software/private-policy/" target="_blank">http://www.ingenibridge.com/home-en/the-software/private-policy/</a>
 
 ### Support ###
-Support may be requested at ingenibridgesupport@deagital.com
+Support may be requested at ingenibridgesupport@jtotec.fr
 
 A tutorial is available here => <a href="http://www.ingenibridge.com/home-en/the-software/tutorial/" target="_blank">http://www.ingenibridge.com/home-en/the-software/tutorial/</a>
 
