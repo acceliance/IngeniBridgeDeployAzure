@@ -9,13 +9,13 @@ All features are available.
 The policy is here => <a href="http://www.ingenibridge.com/home-en/the-software/private-policy/" target="_blank">http://www.ingenibridge.com/home-en/the-software/private-policy/</a>
 
 ### Support ###
-Support may be requested at ingenibridgesupport@jtotec.fr
+Support may be requested at ingenibridgesupport@acceliance.fr
 
 A tutorial is available here => <a href="http://www.ingenibridge.com/home-en/the-software/tutorial/" target="_blank">http://www.ingenibridge.com/home-en/the-software/tutorial/</a>
 
 ## Deploy IngeniBridge Server in single Vm on the Azure Cloud ##
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDeagital%2FIngeniBridgeDeployAzure%2Fmaster%2Ffiles%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAcceliance%2FIngeniBridgeDeployAzure%2Fmaster%2Ffiles%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
 
