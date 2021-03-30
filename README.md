@@ -24,12 +24,7 @@ The following template deploys IngeniBridge Server on your Azure account.
 ### IngeniBridge Initial Deployment ###
 The template deploys a Windows VM with IIS embedded.
 
-Look at the public IP address created and connect to it using any browser.
-
-## Azure Cloud Marketplace availability ##
-IngeniBridge is live in the Azure Cloud Marketplace.
-
-
+Look at the public Azure IP address created and connect to it ASAP using any browser.
 
 
 
